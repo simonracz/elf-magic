@@ -1,5 +1,5 @@
 # Elf-Magic
-Code created during streaming
+Code created during recording the [Elf Magic - Digging Deeper into an Elf Binary on Linux](https://youtu.be/cS5NzTZRKCM) video
 
 # Various Snippets for Building
 ```
